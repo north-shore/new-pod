@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+html{
+  font-family: 'Quicksand', Quicksand;
+}
+p{
+  font-family: 'Quicksand', Quicksand;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Quicksand', Quicksand;
+}
+body{
+  font-family: 'Quicksand', Quicksand;
+}
+.nav-top-link{
+  font-family: 'Quicksand', Quicksand;
+}
+li{
+  font-family: 'Quicksand', Quicksand;
+}
+.menu-item{
+  font-family: 'Quicksand', Quicksand;
+}
+a{
+  font-family: 'Quicksand', Quicksand;
+}
+@media screen and (min-width: 400px) {
+ @font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+html{
+  font-family: 'Quicksand', Quicksand;
+}
+p{
+  font-family: 'Quicksand', Quicksand;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Quicksand', Quicksand;
+}
+body{
+  font-family: 'Quicksand', Quicksand;
+}
+.nav-top-link{
+  font-family: 'Quicksand', Quicksand;
+}
+li{
+  font-family: 'Quicksand', Quicksand;
+}
+.menu-item{
+  font-family: 'Quicksand', Quicksand;
+}
+a{
+  font-family: 'Quicksand', Quicksand;
+}
+}
+@media screen and (min-width: 800px) {
+ @font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css?family=Quicksand') format('truetype');
+}
+html{
+  font-family: 'Quicksand', Quicksand;
+}
+p{
+  font-family: 'Quicksand', Quicksand;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Quicksand', Quicksand;
+}
+body{
+  font-family: 'Quicksand', Quicksand;
+}
+.nav-top-link{
+  font-family: 'Quicksand', Quicksand;
+}
+li{
+  font-family: 'Quicksand', Quicksand;
+}
+.menu-item{
+  font-family: 'Quicksand', Quicksand;
+}
+a{
+  font-family: 'Quicksand', Quicksand;
+}
+}

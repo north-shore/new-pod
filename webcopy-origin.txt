@@ -1,0 +1,936 @@
+Uri: https://Teacup poodleyard.com/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/1521756479-Teacup Poodle2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\1521756479-Teacup Poodle2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Screen-Shot-2021-01-08-at-7.07.09-AM.png
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Screen-Shot-2021-01-08-at-7.07.09-AM.png
+Content Type: image/png
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/feed/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://Teacup poodleyard.com/comments/feed/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://Teacup poodleyard.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.11
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=quicksand:regular%2C700%2C400%2C700|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\css.css
+Content Type: text/css
+
+Uri: https://Teacup poodleyard.com/wp-json/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\9.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/cropped-istockphoto-1145272688-612x612-2-32x32.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\cropped-istockphoto-1145272688-612x612-2-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/cropped-istockphoto-1145272688-612x612-2-192x192.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\cropped-istockphoto-1145272688-612x612-2-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/cropped-istockphoto-1145272688-612x612-2-180x180.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\cropped-istockphoto-1145272688-612x612-2-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/about-us/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/available-puppies/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\available-puppies\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/shipping/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\shipping\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/our-guarantee/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\our-guarantee\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/reviews/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\reviews\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/contact-us/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/LOG.png
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\LOG.png
+Content Type: image/png
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/istockphoto-1145272688-612x612-1-300x275.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\istockphoto-1145272688-612x612-1-300x275.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-includes/js/wp-embed.min.js?ver=5.8.2
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/istockphoto-1145272688-612x612-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\istockphoto-1145272688-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-1-768x767.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-1-768x767.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie-1-300x289.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie-1-300x289.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie-1-768x741.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie-1-768x741.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\index-1.htm
+Content Type: text/html
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: 
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: 
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: 
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/35
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\35.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/98471111-LRG_530x.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\98471111-LRG_530x.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/98471111-LRG_530x-206x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\98471111-LRG_530x-206x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/100
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\100.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Favailable-puppies%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Favailable-puppies%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi3-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi3-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy4-821x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy4-821x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy3-816x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy3-816x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco3-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco3-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco5-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco5-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi4-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi4-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi5-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi5-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi6-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi6-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy3-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy3-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy4-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy4-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy2-917x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy2-917x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy3-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy3-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena3-1-911x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena3-1-911x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena1-1-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena1-1-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena4-1-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena4-1-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena-1-819x1024.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena-1-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi3-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi3-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi3-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi3-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi2-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi2-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi2-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Bumi1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Bumi1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy-768x767.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy-768x767.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy4-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy4-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy4-768x958.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy4-768x958.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy4.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy4.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy3-239x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy3-239x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy3-768x964.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy3-768x964.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy2-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy2-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Percy2-768x771.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Percy2-768x771.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie-300x289.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie-300x289.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie-768x741.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie-768x741.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie1-298x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie1-298x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie1-768x774.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie1-768x774.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie2-300x296.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie2-300x296.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie2-768x758.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie2-768x758.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie3-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie3-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Richie3-768x764.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Richie3-768x764.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco2-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco2-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco2-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco3-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco3-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco3-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco3-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco5-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco5-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco5-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco5-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Rocco5.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Rocco5.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi4-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi4-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi4-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi4-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi4.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi4.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi5-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi5-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi5-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi5-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi5.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi5.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi6-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi6-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi6-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi6-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Simi6.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Simi6.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy3-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy3-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy3-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy4-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy4-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy4-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy4-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy4.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy4.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Suzzy1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Suzzy1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy1-300x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy1-150x150.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy1-768x768.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy2-269x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy2-269x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy2-768x858.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy2-768x858.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy2.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy2.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy3-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy3-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy3-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy3-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Teddy3.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Teddy3.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena3-1-267x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena3-1-267x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena3-1-768x863.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena3-1-768x863.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena3-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena1-1-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena1-1-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena1-1-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena1-1-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena1-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena4-1-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena4-1-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena4-1-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena4-1-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena4-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena-1-240x300.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena-1-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena-1-768x960.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena-1-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-content/uploads/2021/10/Veena-1.jpg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\uploads\2021\10\Veena-1.jpg
+Content Type: image/jpeg
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/42
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\42.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fshipping%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fshipping%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/48
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\48.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Four-guarantee%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Four-guarantee%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/56
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\56.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Freviews%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Freviews%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.6.9
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://Teacup poodleyard.com/wp-json/wp/v2/pages/86
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\wp\v2\pages\86.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://Teacup poodleyard.com/wp-json/oembed/1.0/embed?url=https:%2F%2FTeacup poodleyard.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/js/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\js\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.9
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://Teacup poodleyard.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\Teacup poodleyard.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
